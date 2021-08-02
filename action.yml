@@ -6,7 +6,7 @@ inputs:
     description: 'greeting to use'
     required: true
     defualt: 'Awesome Sauce'
-output:
+outputs:
   myOutput:
     description: 'total memory'
 runs:
